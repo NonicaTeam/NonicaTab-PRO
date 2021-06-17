@@ -1,7 +1,7 @@
 
 ![alt text](https://nonica.io/wp-content/uploads/2021/06/panel.jpg)
 
-[![releases](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/NonicaTeam/NonicaTab-PRO/releases/) [![PRO](https://img.shields.io/badge/PRO%20version-Deploy!-orange)](https://apps.autodesk.com/RVT/en/Detail/Index?id=9212699819557407848&appLang=en&os=Win64) [![download](https://img.shields.io/badge/Download-750-blue)](hhttps://apps.autodesk.com/RVT/en/Detail/Index?id=9212699819557407848&appLang=en&os=Win64)
+[![releases](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/NonicaTeam/NonicaTab-PRO/releases/) [![PRO](https://img.shields.io/badge/PRO%20version-Deploy!-orange)](https://apps.autodesk.com/RVT/en/Detail/Index?id=9212699819557407848&appLang=en&os=Win64) [![download](https://img.shields.io/badge/Download-Link-blue)](hhttps://apps.autodesk.com/RVT/en/Detail/Index?id=9212699819557407848&appLang=en&os=Win64)
 # NonicaTab PRO
 ✔️ NonicaTab PRO creates a new Revit toolbar with 3 profiles of 12 buttons each easy to customize with your Dynamo scripts and favorite icons. Profiles (Default, Beta, and Gamma) can be easily switched at runtime to use different sets of buttons.
 
